@@ -7,6 +7,11 @@ Projeto do desafio da DIO **Criando Agentes de Tratamento de Dados**. A página 
 - Dashboard: https://1giordani.github.io/dashboard-porsche-sales/
 - Repositório: https://github.com/1giordani/dashboard-porsche-sales
 
+## Evidências visuais
+
+- Visão geral: [evidencia-dashboard-geral.jpg](evidencia-dashboard-geral.jpg)
+- Filtro aplicado para o modelo 911 Dakar: [evidencia-filtro-911-dakar.jpg](evidencia-filtro-911-dakar.jpg). O recorte retorna 3 vendas e US$ 810.600,00 em receita.
+
 ## Perguntas de negócio
 
 1. **Quais modelos concentram o maior valor vendido?** O gráfico ordena os oito modelos de maior receita para apoiar a comparação de portfólio.
