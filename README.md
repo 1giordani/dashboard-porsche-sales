@@ -9,8 +9,8 @@ Projeto do desafio da DIO **Criando Agentes de Tratamento de Dados**. A página 
 
 ## Evidências visuais
 
-- Visão geral: [evidencia-dashboard-geral.jpg](evidencia-dashboard-geral.jpg)
-- Filtro aplicado para o modelo 911 Dakar: [evidencia-filtro-911-dakar.jpg](evidencia-filtro-911-dakar.jpg). O recorte retorna 3 vendas e US$ 810.600,00 em receita.
+- Visão geral: [porsche-dashboard-1790431641396.jpg](porsche-dashboard-1790431641396.jpg)
+- Filtro aplicado para o modelo 911 Dakar: [porsche-filtro-911-dakar-1790431696410.jpg](porsche-filtro-911-dakar-1790431696410.jpg). O recorte retorna 3 vendas e US$ 810.600,00 em receita.
 
 ## Perguntas de negócio
 
